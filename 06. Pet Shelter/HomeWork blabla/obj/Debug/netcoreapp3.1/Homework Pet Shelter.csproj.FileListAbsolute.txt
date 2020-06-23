@@ -1,0 +1,10 @@
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\bin\Debug\netcoreapp3.1\Homework Pet Shelter.exe
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\bin\Debug\netcoreapp3.1\Homework Pet Shelter.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\bin\Debug\netcoreapp3.1\Homework Pet Shelter.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\bin\Debug\netcoreapp3.1\Homework Pet Shelter.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\bin\Debug\netcoreapp3.1\Homework Pet Shelter.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\bin\Debug\netcoreapp3.1\Homework Pet Shelter.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\obj\Debug\netcoreapp3.1\Homework Pet Shelter.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\obj\Debug\netcoreapp3.1\Homework Pet Shelter.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\obj\Debug\netcoreapp3.1\Homework Pet Shelter.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\06. Pet Shelter\HomeWork blabla\obj\Debug\netcoreapp3.1\Homework Pet Shelter.pdb

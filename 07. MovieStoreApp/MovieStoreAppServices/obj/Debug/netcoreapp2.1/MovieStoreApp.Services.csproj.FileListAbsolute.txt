@@ -1,0 +1,34 @@
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Domain.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Domain.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Domain.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Domain.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp Pt1\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Domain.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\bin\Debug\netcoreapp2.1\MovieStoreApp.Domain.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.csproj.CopyComplete
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\07. MovieStoreApp\MovieStoreAppServices\obj\Debug\netcoreapp2.1\MovieStoreApp.Services.csproj.CoreCompileInputs.cache

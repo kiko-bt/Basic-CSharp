@@ -1,0 +1,10 @@
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\bin\Debug\netcoreapp3.1\MovieStoreApp Pt1.exe
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\bin\Debug\netcoreapp3.1\MovieStoreApp Pt1.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\bin\Debug\netcoreapp3.1\MovieStoreApp Pt1.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\bin\Debug\netcoreapp3.1\MovieStoreApp Pt1.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\bin\Debug\netcoreapp3.1\MovieStoreApp Pt1.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\bin\Debug\netcoreapp3.1\MovieStoreApp Pt1.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\obj\Debug\netcoreapp3.1\MovieStoreApp Pt1.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\obj\Debug\netcoreapp3.1\MovieStoreApp Pt1.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\obj\Debug\netcoreapp3.1\MovieStoreApp Pt1.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\MovieStoreApp Pt1\MovieStoreApp Pt1\obj\Debug\netcoreapp3.1\MovieStoreApp Pt1.pdb

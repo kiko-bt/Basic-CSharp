@@ -1,0 +1,22 @@
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).exe
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).deps.json
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).runtimeconfig.json
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).runtimeconfig.dev.json
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).dll
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).pdb
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).csprojAssemblyReference.cache
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).AssemblyInfoInputs.cache
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).AssemblyInfo.cs
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).dll
+C:\Users\pc\source\repos\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).exe
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp3.1\Homework Class 4 (Methods and Strings).pdb

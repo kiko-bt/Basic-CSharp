@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework Class 4 (Methods and Strings)", "Homework Class 4 (Methods and Strings)\Homework Class 4 (Methods and Strings).csproj", "{610456EF-704C-42D8-85EF-62A89BA36140}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{610456EF-704C-42D8-85EF-62A89BA36140}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{610456EF-704C-42D8-85EF-62A89BA36140}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{610456EF-704C-42D8-85EF-62A89BA36140}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{610456EF-704C-42D8-85EF-62A89BA36140}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {902A9FF9-DE27-4591-8C6D-63AF71B59CA7}
+	EndGlobalSection
+EndGlobal

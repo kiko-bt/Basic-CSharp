@@ -1,0 +1,12 @@
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\bin\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).csproj.CoreCompileInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\04. Methods and Strings\Homework Class 4 (Methods and Strings)\obj\Debug\netcoreapp2.1\Homework Class 4 (Methods and Strings).genruntimeconfig.cache

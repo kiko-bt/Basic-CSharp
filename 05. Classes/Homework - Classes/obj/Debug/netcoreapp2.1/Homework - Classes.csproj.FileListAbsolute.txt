@@ -1,0 +1,3 @@
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\obj\Debug\netcoreapp2.1\Homework - Classes.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\obj\Debug\netcoreapp2.1\Homework - Classes.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\obj\Debug\netcoreapp2.1\Homework - Classes.AssemblyInfo.cs

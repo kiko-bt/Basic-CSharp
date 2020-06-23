@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.1": {
+      "Homework Class 4 (Methods and Strings)/1.0.0": {
+        "runtime": {
+          "Homework Class 4 (Methods and Strings).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Homework Class 4 (Methods and Strings)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

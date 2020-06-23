@@ -1,0 +1,22 @@
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.exe
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.deps.json
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.dll
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.pdb
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.dll
+D:\PRACTICE MAKE PERFECT\C#\Variables\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.exe
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\bin\Debug\netcoreapp3.1\Homework 02.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\02. Variables and Branching\Homework 02\obj\Debug\netcoreapp3.1\Homework 02.pdb

@@ -1,0 +1,10 @@
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\bin\Debug\netcoreapp2.1\Homework - Arrays and Loops.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\bin\Debug\netcoreapp2.1\Homework - Arrays and Loops.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\bin\Debug\netcoreapp2.1\Homework - Arrays and Loops.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\bin\Debug\netcoreapp2.1\Homework - Arrays and Loops.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\bin\Debug\netcoreapp2.1\Homework - Arrays and Loops.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\obj\Debug\netcoreapp2.1\Homework - Arrays and Loops.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\obj\Debug\netcoreapp2.1\Homework - Arrays and Loops.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\obj\Debug\netcoreapp2.1\Homework - Arrays and Loops.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\obj\Debug\netcoreapp2.1\Homework - Arrays and Loops.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\03 Arrays and Loops\Homework - Arrays and Loops\obj\Debug\netcoreapp2.1\Homework - Arrays and Loops.pdb

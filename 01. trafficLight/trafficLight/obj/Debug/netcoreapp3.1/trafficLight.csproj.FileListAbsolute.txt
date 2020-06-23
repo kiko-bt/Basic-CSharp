@@ -1,0 +1,33 @@
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.exe
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.deps.json
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.dll
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.pdb
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.dll
+D:\PRACTICE MAKE PERFECT\C#\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.exe
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORK\trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.exe
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\bin\Debug\netcoreapp3.1\trafficLight.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\01. trafficLight\trafficLight\obj\Debug\netcoreapp3.1\trafficLight.pdb

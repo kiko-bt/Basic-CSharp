@@ -1,0 +1,184 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreApp Pt1\\MovieStoreApp Pt1.csproj": {}
+  },
+  "projects": {
+    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreApp Pt1\\MovieStoreApp Pt1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreApp Pt1\\MovieStoreApp Pt1.csproj",
+        "projectName": "MovieStoreApp Pt1",
+        "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreApp Pt1\\MovieStoreApp Pt1.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreApp Pt1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppDomain\\MovieStoreApp.Domain.csproj": {
+                "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppDomain\\MovieStoreApp.Domain.csproj"
+              },
+              "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppServices\\MovieStoreApp.Services.csproj": {
+                "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppServices\\MovieStoreApp.Services.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppDomain\\MovieStoreApp.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppDomain\\MovieStoreApp.Domain.csproj",
+        "projectName": "MovieStoreApp.Domain",
+        "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppDomain\\MovieStoreApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppDomain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppServices\\MovieStoreApp.Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppServices\\MovieStoreApp.Services.csproj",
+        "projectName": "MovieStoreApp.Services",
+        "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppServices\\MovieStoreApp.Services.csproj",
+        "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
+        "outputPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppServices\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppDomain\\MovieStoreApp.Domain.csproj": {
+                "projectPath": "D:\\PRACTICE MAKE PERFECT\\C#\\HOMEWORKS\\07. MovieStoreApp\\MovieStoreAppDomain\\MovieStoreApp.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

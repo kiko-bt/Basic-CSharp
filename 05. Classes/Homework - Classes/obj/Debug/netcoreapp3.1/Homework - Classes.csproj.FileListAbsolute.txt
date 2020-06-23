@@ -1,0 +1,11 @@
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\bin\Debug\netcoreapp3.1\Homework - Classes.exe
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\bin\Debug\netcoreapp3.1\Homework - Classes.deps.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\bin\Debug\netcoreapp3.1\Homework - Classes.runtimeconfig.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\bin\Debug\netcoreapp3.1\Homework - Classes.runtimeconfig.dev.json
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\bin\Debug\netcoreapp3.1\Homework - Classes.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\bin\Debug\netcoreapp3.1\Homework - Classes.pdb
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\obj\Debug\netcoreapp3.1\Homework - Classes.csprojAssemblyReference.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\obj\Debug\netcoreapp3.1\Homework - Classes.AssemblyInfoInputs.cache
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\obj\Debug\netcoreapp3.1\Homework - Classes.AssemblyInfo.cs
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\obj\Debug\netcoreapp3.1\Homework - Classes.dll
+D:\PRACTICE MAKE PERFECT\C#\HOMEWORKS\05. Classes\Homework - Classes\obj\Debug\netcoreapp3.1\Homework - Classes.pdb
