@@ -1,0 +1,12 @@
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\bin\Debug\netcoreapp3.1\Design a database connection.exe
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\bin\Debug\netcoreapp3.1\Design a database connection.deps.json
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\bin\Debug\netcoreapp3.1\Design a database connection.runtimeconfig.json
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\bin\Debug\netcoreapp3.1\Design a database connection.runtimeconfig.dev.json
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\bin\Debug\netcoreapp3.1\Design a database connection.dll
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\bin\Debug\netcoreapp3.1\Design a database connection.pdb
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\obj\Debug\netcoreapp3.1\Design a database connection.AssemblyInfoInputs.cache
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\obj\Debug\netcoreapp3.1\Design a database connection.AssemblyInfo.cs
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\obj\Debug\netcoreapp3.1\Design a database connection.csproj.CoreCompileInputs.cache
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\obj\Debug\netcoreapp3.1\Design a database connection.dll
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\obj\Debug\netcoreapp3.1\Design a database connection.pdb
+C:\Users\Hristijan\Desktop\Design a database connection\Design a database connection\obj\Debug\netcoreapp3.1\Design a database connection.genruntimeconfig.cache
